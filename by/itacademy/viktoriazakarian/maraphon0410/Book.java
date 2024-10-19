@@ -1,4 +1,4 @@
-package task0410;
+package task0410.by.itacademy.viktoriazakarian.maraphon0410;
 
 public class Book {
     private String name;
